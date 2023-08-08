@@ -4,7 +4,7 @@
 	"author": "Matthias Porges",
 	"authorUrl": "https://nether.at",
 	
-	"sourceUrl": "https://raw.githubusercontent.com/Matti-Koopa/grayjay_wienat_videos/master/WienAtVideosConfig.json",
+	"sourceUrl": "https://github.com/Matti-Koopa/grayjay_wienat_videos/releases/download/current/WienAtVideosConfig.json",
 	"repositoryUrl": "https://github.com/Matti-Koopa/grayjay_wienat_videos/",
 	"scriptUrl": "./WienAtVideosScript.js",
 	"version": 1,
